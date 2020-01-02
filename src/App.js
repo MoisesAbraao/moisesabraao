@@ -1,11 +1,14 @@
 import React from 'react';
+import perfil from './me.jpeg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <img src={perfil} />
         <div className="banner-text">
+
           <h1>Moisés Abraão</h1>
 
           <hr/>

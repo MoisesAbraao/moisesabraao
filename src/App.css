@@ -28,6 +28,14 @@
   color: white;
 }
 
+.App-header img {
+  background-color: #aaa;
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+  margin-top: 3%;
+}
+
 
 @keyframes App-logo-spin {
   from {
@@ -42,7 +50,7 @@
   background-color: black;
   opacity: .8;
   width: 85%;
-  margin-top: 20%;
+  margin-top: 5%;
   /* margin: auto; */
   border-radius: 10px;
 }
